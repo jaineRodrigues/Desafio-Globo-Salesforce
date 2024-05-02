@@ -1,0 +1,27 @@
+.container {
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-toggle {
+  display: flex;
+  align-items: center;
+
+}
+
+.formContainer {
+  margin: 0 1.2rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttonContainer {
+  width: 100%;
+  margin-top: .8rem;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
